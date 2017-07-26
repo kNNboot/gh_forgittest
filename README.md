@@ -1,3 +1,3 @@
 # gh_forgittest
-  try to use git #Add2BYMASTER###
+  try to use git #Add2BYMASTER### #Add by Newwork2
   fix the README
